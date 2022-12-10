@@ -1,0 +1,22 @@
+.jumbotron{
+    margin-top: 100px;
+}
+
+.bg{
+    background-color: antiquewhite;
+}
+
+.set{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    margin: 0 23px;
+}
+
+.set img{
+    height: 300px;
+}
+
+.fs{
+    font-size: 65px;
+}
